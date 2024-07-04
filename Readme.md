@@ -6,5 +6,5 @@ This project implements a plagiarism detection algorithm using TF-IDF (Term Freq
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vishesh-agrawal/plagiarism-detection.git
+   git clone https://github.com/vishesh-agrawal/plagiarism-analyzer.git
    cd plagiarism-detection
